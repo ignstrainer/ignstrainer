@@ -8,7 +8,7 @@ Reach me on Discord @strainer1
 ---
 
 ## 🛠 Skills
-![Minecraft Plugin Developer](https://img.shields.io/badge/Minecraft-Server-green)
+![Minecraft Plugin Developer](https://img.shields.io/badge/Minecraft-Plugin%20Developer-green)
 ![Discord Bot Developer](https://img.shields.io/badge/Discord-Bot%20Developer-5865F2?logo=discord&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
